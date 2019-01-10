@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "08b495f4a41f44dc0e7ddffb66dc70f1",
+    "content-hash": "740e3b3eb5e8475722626153a3ca6417",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -464,16 +464,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v5.7.20",
+            "version": "5.7.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "10cd20294b5668f90ba91996236834e71f7ff670"
+                "reference": "6223da0a3132c27c3380daf0b50828b017a89308"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/10cd20294b5668f90ba91996236834e71f7ff670",
-                "reference": "10cd20294b5668f90ba91996236834e71f7ff670",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/6223da0a3132c27c3380daf0b50828b017a89308",
+                "reference": "6223da0a3132c27c3380daf0b50828b017a89308",
                 "shasum": ""
             },
             "require": {
@@ -606,7 +606,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2019-01-08T14:39:11+00:00"
+            "time": "2019-01-09T13:48:22+00:00"
         },
         {
             "name": "laravel/nexmo-notification-channel",
@@ -4495,7 +4495,7 @@
         }
     ],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
