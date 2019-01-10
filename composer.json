@@ -1,5 +1,5 @@
 {
-    "name": "cloudsoh/inventorymanagement",
+    "name": "cloudsoh/inventory-management",
     "type": "project",
     "require-dev": {
         "orchestra/testbench": "^3.7"
@@ -10,6 +10,7 @@
             "email": "cloudsoh03021@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
