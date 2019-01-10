@@ -1,0 +1,23 @@
+{
+    "name": "cloudsoh/inventorymanagement",
+    "type": "project",
+    "require-dev": {
+        "orchestra/testbench": "^3.7"
+    },
+    "authors": [
+        {
+            "name": "Cloud",
+            "email": "cloudsoh03021@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CloudSoh\\InventoryManagement\\InventoryServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "illuminate/support": "^5.7"
+    }
+}
