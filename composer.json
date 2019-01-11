@@ -13,7 +13,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "CloudSoh\\InventoryManagement\\": "src/"
+            "CloudSoh\\InventoryManagement\\": "src/app/"
         }
     },
     "extra": {
