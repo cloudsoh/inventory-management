@@ -47,6 +47,12 @@ class CreateMetricsTable extends Migration
                 'symbol' => 'mℓ',
                 'modifiable' => false,
             ],
+            [
+                'id' => '5',
+                'name' => 'Unit',
+                'symbol' => 'UNIT',
+                'modifiable' => false,
+            ],
         ];
         DB::table('metrics')->insert($this->formatTimestamp($metrics));
     }
