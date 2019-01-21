@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "740e3b3eb5e8475722626153a3ca6417",
+    "content-hash": "ecc1b245f27349f4e8b85ef632230810",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -464,16 +464,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "5.7.x-dev",
+            "version": "v5.7.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "6223da0a3132c27c3380daf0b50828b017a89308"
+                "reference": "10cd20294b5668f90ba91996236834e71f7ff670"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/6223da0a3132c27c3380daf0b50828b017a89308",
-                "reference": "6223da0a3132c27c3380daf0b50828b017a89308",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/10cd20294b5668f90ba91996236834e71f7ff670",
+                "reference": "10cd20294b5668f90ba91996236834e71f7ff670",
                 "shasum": ""
             },
             "require": {
@@ -606,7 +606,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2019-01-09T13:48:22+00:00"
+            "time": "2019-01-08T14:39:11+00:00"
         },
         {
             "name": "laravel/nexmo-notification-channel",
@@ -1050,16 +1050,16 @@
         },
         {
             "name": "opis/closure",
-            "version": "3.1.3",
+            "version": "3.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/opis/closure.git",
-                "reference": "5e9095ce871a425ab87a854b285b7766de38a7d9"
+                "reference": "3f28ad09e82ce254d12ca01b0fb8592d0c861eb5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/opis/closure/zipball/5e9095ce871a425ab87a854b285b7766de38a7d9",
-                "reference": "5e9095ce871a425ab87a854b285b7766de38a7d9",
+                "url": "https://api.github.com/repos/opis/closure/zipball/3f28ad09e82ce254d12ca01b0fb8592d0c861eb5",
+                "reference": "3f28ad09e82ce254d12ca01b0fb8592d0c861eb5",
                 "shasum": ""
             },
             "require": {
@@ -1107,7 +1107,7 @@
                 "serialization",
                 "serialize"
             ],
-            "time": "2019-01-06T22:07:38+00:00"
+            "time": "2019-01-14T09:58:52+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -4495,7 +4495,7 @@
         }
     ],
     "aliases": [],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,

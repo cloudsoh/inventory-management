@@ -10,10 +10,13 @@
             "email": "cloudsoh03021@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "CloudSoh\\InventoryManagement\\": "src/app/"
+            "CloudSoh\\InventoryManagement\\": [
+                "src/",
+                "src/app/"
+            ]
         }
     },
     "extra": {
